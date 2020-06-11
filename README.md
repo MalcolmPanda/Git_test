@@ -1,2 +1,1 @@
-# Git_test
-Random git test
+This is Malcolm's first git project
